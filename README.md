@@ -4,9 +4,9 @@
 
 ## 🔧 My Tools
 
-![Android 16](https://img.shields.io/badge/Android%2016-3DDC84?logo=android&logoColor=white)
-![ULTRA7-255HX](https://img.shields.io/badge/ULTRA7%20-255HX-0071C5?logo=INTEL&logoColor=white) 
-![RTX5060](https://img.shields.io/badge/Geforce%20-RTX5060-76B900?logo=NVIDIA&logoColor=white) 
+![Android 17](https://img.shields.io/badge/Android%2017-3DDC84?logo=android&logoColor=white)
+[![ULTRA7-255HX](https://img.shields.io/badge/ULTRA7%20-255HX-0071C5?logo=INTEL&logoColor=white)](https://www.intel.cn/content/www/cn/zh/products/sku/242292/intel-core-ultra-7-processor-255hx-30m-cache-up-to-5-20-ghz/specifications.html) 
+[![RTX5060](https://img.shields.io/badge/Geforce%20-RTX5060-76B900?logo=NVIDIA&logoColor=white)](https://www.nvidia.cn/geforce/graphics-cards/50-series/rtx-5060-family/)
 
 ## ⌨ My language
 
